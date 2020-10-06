@@ -10,6 +10,6 @@
 
 
 
-Check it..[live](https://ankit-developer143.github.io/Check-Avtaar/)
+Check it click here..[live](https://ankit-developer143.github.io/Check-Avtaar/)
 
 
